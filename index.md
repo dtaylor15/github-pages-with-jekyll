@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "De'Andra's Docs"
 ---
 
-I'm glad you are here. I plan to talk about ...
+What's up? I'm De'Andra and these are my docs ...
